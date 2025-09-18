@@ -26,7 +26,6 @@ https://nwjs.io/
 
 > npm install -g screenshot-desktop
 
-
 ---
 
 To run this application we:

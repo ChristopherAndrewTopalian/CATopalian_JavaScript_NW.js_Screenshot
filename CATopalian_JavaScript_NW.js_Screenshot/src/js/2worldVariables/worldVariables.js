@@ -1,5 +1,7 @@
 // worldVariables.js
 
+// npm install -g screenshot-desktop
+
 let screenshot = require('screenshot-desktop');
 
 let prefix = 'ourFile';

@@ -21,8 +21,11 @@ Video: https://www.youtube.com/watch?v=OlEfX3MmYNw
 
 REQUIREMENTS:
 
-NW.js  
+> NW.js  
 https://nwjs.io/  
+
+> npm install -g screenshot-desktop
+
 
 ---
 

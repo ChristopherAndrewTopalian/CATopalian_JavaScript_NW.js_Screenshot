@@ -1,0 +1,21 @@
+{
+  "name": "catopalian-javascript-nwjs-screenshot",
+  "version": "1.0.0",
+  "description": "A Screenshot application",
+  "main": "./CATopalian_JavaScript_NW.js_Screenshot.html",  
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "nw ."
+  },
+  "window": {
+      "width": 350,
+      "height": 250,
+      "icon": "src/media/textures/icon/icon.png"
+  },
+  "keywords": [],
+  "author": "Christopher Andrew Topalian",
+  "license": "",
+  "dependencies": {},
+  "devDependencies": {}
+}
+
